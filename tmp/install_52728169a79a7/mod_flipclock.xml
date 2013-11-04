@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+        <extension type="module" version="2.5.0" method="upgrade">
+<name>flipclock</name>
+    <author>yuri_paliy</author>
+    <version>1.0.0</version>
+    <description>module_flipclock</description>
+    <files>
+        <filename module="flipclock">flipclock.php</filename>
+        <filename>flipclock.xml</filename>
+    </files>
+    <config>
+
+
+    </config>
+
+        </extension>

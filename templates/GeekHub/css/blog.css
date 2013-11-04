@@ -1,0 +1,77 @@
+
+/* ++++++++++++++  blog  ++++++++++++++ */
+
+
+.cols-3 .column-1, .cols-3 .column-2, .cols-3 .column-3 { border-top: 1px solid #D2DCE1;
+    float: left;
+    padding: 24px 5px 24px 0;
+    clear: both;
+    width: 295px;
+    margin-bottom:35px;}
+
+
+
+
+
+
+
+.cols-1
+
+{
+
+    display: block;
+    float: none !important;
+    margin: 0 !important;
+    width:295px;
+}
+
+.cols-2 .column-1
+{
+    width:295px;
+    float:left;
+    padding: 24px 5px 24px 0;
+}
+
+.cols-2 .column-2
+{
+    width:295px;
+    float:right;
+    margin:0;
+    padding: 24px 5px 24px 0;
+}
+
+.cols-3 .column-1
+{
+    float:left;
+    width:295px;
+    padding: 24px 5px 24px 0;
+    margin-right:0%
+
+
+}
+.cols-3 .column-2
+{
+    float:left;
+    width:295px;
+    margin-left:0;
+    padding: 24px 5px 24px 0;
+}
+.cols-3 .column-3
+{
+    float:left;
+    width:295px;
+    padding: 24px 5px 24px 0;
+}
+
+.items-row   {color: #39525A;
+    font-size: 13px;
+    line-height: 18px;
+    margin: 13px 10px 0 0;
+    overflow: hidden;
+    width: 100%;
+    overflow:hidden;
+    margin-bottom:10px !important;
+    text-align: left;
+}
+
+
